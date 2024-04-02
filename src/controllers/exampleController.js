@@ -1,4 +1,4 @@
-const exampleDataProvider = require('../providers');
+const {exampleDataProvider} = require('../providers');
 
 const getExample = async (req, res) => {
   try {
